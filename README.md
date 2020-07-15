@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  
+  <img src="./doc/logo-readme.png" width="100px">
 </p>
 
 ## :nazar_amulet: Objetivo
