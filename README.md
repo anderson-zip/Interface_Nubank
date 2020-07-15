@@ -17,7 +17,7 @@
 
 ## :nazar_amulet: Objetivo
 
-| Dar acesso ao conteúdo das disciplinas do curso de Desenvolvimento de Sistemas do Senai. O contéudo está em formato de vídeo.
+| Recriar a interface do nubank.
 
 ## :black_nib: Justificativa
 
