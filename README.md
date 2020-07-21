@@ -19,6 +19,10 @@
 
 | Recriar a interface do nubank.
 
+## :art: Interface
+
+<img src="./doc/nubankUI.png" width="400px">
+
 ## :black_nib: Justificativa
 
 | Este projeto faz parte das atividades avaliativas do curso de desenvolvimento de sistemas para dispositivos móveis do curso de DS do SENAI.
@@ -34,7 +38,6 @@ Foto | Nome | GitHub | Likedin | E-mail
 - [Java Script](https://www.javascript.com/)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://docs.expo.io)
-- [Axios](https://github.com/axios/axios)
 
 ## :construction_worker: Instalação
 
@@ -45,12 +48,6 @@ Você precisa instalar o [Node.js](https://nodejs.org/en/download/) e o [Expo](h
 1. Execute `npm install` para instalar as dependências;
 2. Execute `npm start` para iniciar o aplicativo;
 
-## :gear: Arquitetura do App
-
-Uma amostra de como as tecnologias estão se relacionando no aplicativo
-![](./doc/arquitetura.png)
-
-Foi utilizado o React Native para desenvolver a estrutura do app.
 
 ## :handshake: Contribuindo
 
