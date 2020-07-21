@@ -1,4 +1,4 @@
-1. Faça o fork (<https://github.com/jeffeloy/appcovid-19/fork>)
+1. Faça o fork (<https://github.com/rafaellevissa/nubank_Interface/fork>)
 2. Crie a branch da sua modificação (`git checkout -b feature/nomeDaFeature`)
 3. Commit suas mudanças (`git commit -am ':rocket: Add mais feature'`)
 4. Faça push para sua branch (`git push origin feature/nomeDaFeature`)
@@ -11,21 +11,20 @@
 - Considere descrever com detalhes no corpo do commit
 - Obrigatório usar um emoji no início da mensagem de commit
 
-| Emoji          | Código           | Tipo do commit             |
-| -------------- | ---------------- | -------------------------- |
-| :tada:         | `:tada:`         | Initial commit             |
-| :books:        | `:books:`        | Documentação               |
-| :rocket:       | `:rocket:`       | Nova funcionalidade        |
-| :art:          | `:art:`          | Melhora estrutura/formato  |
-| :construction: | `:construction:` | Trabalho em progresso      |
-| :racehorse:    | `:racehorse:`    | Melhora performance        |
-| :bug:          | `:bug:`          | Corrige bug                |
-| :lipstick:     | `:lipstick:`     | Adiciona estilização       |
-| :fire:         | `:fire:`         | Remove código ou arquivos  |
-| :hammer:       | `:hammer:`       | Refatoração                |
-| :lock:         | `:lock:`         | Melhora a segurança        |
-| :poop:         | `:poop:`         | Gambiarra/precisa melhorar |
-| :gift:         | `:gift:`         | Nova versão                |
+| Emoji          | Código           | Tipo do commit                                |
+| -------------- | ---------------- | --------------------------------------------- |
+| :tada:         | `:tada:`         | initial commit                                |
+| :art:          | `:art:`          | quando melhorar a estrutura/formato do código |
+| :racehorse:    | `:racehorse:`    | quando melhorar a performance                 |
+| :memo:         | `:memo:`         | quando escrever alguma documentação           |
+| :bug:          | `:bug:`          | quando corrigir um bug                        |
+| :fire:         | `:fire:`         | quando remover código ou arquivos             |
+| :lock:         | `:lock:`         | quando melhorar a segurança                   |
+| :poop:         | `:poop:`         | deprecated                                    |
+| :construction: | `:construction:` | em construção                                 |
+| :rocket:       | `:rocket:`       | nova feature                                  |
+| :see_no_evil:  | `:see_no_evil:`  | gambiarra                                     |
+| :gift:         | `:gift:`         | nova versão                                   |
 
 ### Exemplo
 
